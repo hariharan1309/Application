@@ -1,4 +1,3 @@
-package bus;
 import java.util.*;
 public class Bus {
 	String t1;
