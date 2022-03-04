@@ -1,4 +1,3 @@
-package bus;
 import java.util.*;
 public class Main {
 	static Scanner get=new Scanner(System.in);
